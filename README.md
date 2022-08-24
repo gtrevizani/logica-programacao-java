@@ -1,3 +1,3 @@
 # logica-programacao-python-brasil
 
-Exercícios do site Python Brasil como reforço para a programação estruturada, realizada no meu desktop.
+Exercícios a qual me prontifiquei a realizar do Python Brasil (site) como reforço para a programação estruturada.
