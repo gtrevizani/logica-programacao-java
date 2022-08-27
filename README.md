@@ -1,3 +1,4 @@
 # logica-programacao-python-brasil
 
-Exercícios a qual me prontifiquei a realizar do Python Brasil (site) como reforço para a programação estruturada em Java.
+Exercícios de programação estruturada qual me prontifiquei a realizar do site Python Brasil (site) utlizando clean code, programação defensiva e código seco reforçando assim o estilo de codificação em Java.
+
